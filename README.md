@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/github-repo-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![OS](https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black")](https://img.shields.io/)
-[![LAB](https://img.shields.io/badge/Security-Lab-8A2BE2?style=for-the-badge)]("https://github.com/3078756D627261/ARPScanner/")
+[![LAB](https://img.shields.io/badge/Security-Lab-8A2BE2?style=for-the-badge)]("https://github.com/3078756D627261/Packetsniffer/")
 
 A simple Python packet sniffer built from scratch using Linux raw sockets. This project was created as an educational exercise to understand **how network packets are structured** and **how protocols such as** `Ethernet`, `ARP`, `IPv4`, `ICMP`, `TCP`, and `UDP` work at a low level. Rather than relying on libraries such as `Scapy`, the sniffer receives raw Ethernet frames and manually parses protocol headers using `Python's socket` and `struct modules`.
 
